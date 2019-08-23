@@ -7,10 +7,12 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { PodcastComponent } from './podcast/podcast.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PodcastComponent
   ],
   imports: [
     BrowserAnimationsModule,
