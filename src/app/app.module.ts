@@ -8,11 +8,19 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PodcastComponent } from './podcast/podcast.component';
+import { EpisodeComponent } from './episode/episode.component';
+import { EpisodeListComponent } from './episode/episode-list/episode-list.component';
+import { EpisodeDetailComponent } from './episode/episode-detail/episode-detail.component';
+import { EpisodesComponent } from './episode/episodes/episodes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    PodcastComponent
+    PodcastComponent,
+    EpisodeComponent,
+    EpisodeListComponent,
+    EpisodeDetailComponent,
+    EpisodesComponent
   ],
   imports: [
     BrowserAnimationsModule,
