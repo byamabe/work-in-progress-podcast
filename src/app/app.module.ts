@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 
+import { FlexLayoutModule } from '@angular/flex-layout';
+
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
@@ -26,7 +28,8 @@ import { EpisodesComponent } from './episode/episodes/episodes.component';
     BrowserAnimationsModule,
     BrowserModule,
     MatToolbarModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FlexLayoutModule
   ],
   providers: [],
   bootstrap: [AppComponent]
