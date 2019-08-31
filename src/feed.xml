@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Work in Progress Podcast</title>
+    <link>http://www.workinprogresspodcast.com</link>
+    <language>en-us</language>
+    <copyright>℗ &amp; © 2019 Yamabe &amp; Family</copyright>
+    <itunes:subtitle>A conversation about retaining your Christianity while growing up in modern day America.</itunes:subtitle>
+    <itunes:author>A Work in Progress</itunes:author>
+    <itunes:summary>Pretty much everything about this podcast is a work-in-progress. The
+      host(s), the guests, the format, the website, etc. are all in various states of becoming who God means them to be.
+      In its current form, each episode is a conversation between a father and his oldest daughter. Dad is trying to
+      prepare his girl to hold onto the Faith that was delivered to her as she becomes independent. While daughter tries
+      to help the old guy learn to communicate without offending everyone under 30.</itunes:summary>
+    <description>retty much everything about this podcast is a work-in-progress. The
+      host(s), the guests, the format, the website, etc. are all in various states of becoming who God means them to be.
+      In its current form, each episode is a conversation between a father and his oldest daughter. Dad is trying to
+      prepare his girl to hold onto the Faith that was delivered to her as she becomes independent. While daughter tries
+      to help the old guy learn to communicate without offending everyone under 30.</description>
+    <itunes:owner>
+      <itunes:name>The Work in Progress Podcast</itunes:name>
+      <itunes:email>wip@yamabe.net</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.workinprogresspodcast.com/podcast-icon.jpg" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Education for Kids"/>
+    </itunes:category>
+
+    <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+    <item>
+      <title>Title of Podcast Episode</title>
+      <itunes:subtitle>A short primer on table spices</itunes:subtitle>
+      <itunes:author>Author Name</itunes:author>
+      <itunes:summary><![CDATA[This week we talk about
+                <a href="https://itunes/apple.com/us/book/antique-trader-salt-pepper/id429691295?mt=11">salt and pepper shakers</a>
+                , comparing and contrasting pour rates, construction materials, and overall aesthetics. Come and join the party!]]></itunes:summary>
+      <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg"/>
+      <description>Description of podcast episode content</description>
+      <link>http://example.com/podcast-1</link>
+      <enclosure url="http://example.com/podcast-1/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+      <itunes:duration>00:32:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/podcast-1</guid>
+    </item>
+  <!--END REPEAT-->
+  </channel>
+</rss>
+
+
+
+
+
+
+
+
+</channel>
+</rss>
