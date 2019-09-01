@@ -1,7 +1,5 @@
 <div fxLayout="row" class="list-container">
-  <div fxLayout="column">
-    <app-episode-detail></app-episode-detail>
-    <app-episode-detail></app-episode-detail>
-    <app-episode-detail></app-episode-detail>
+  <div fxLayout="column" *ngFor="let episode of episodes">
+    <app-episode-detail [episode]="episode"></app-episode-detail>
   </div>
 </div>
