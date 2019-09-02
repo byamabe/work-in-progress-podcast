@@ -1,0 +1,11 @@
+#show-description {
+  padding-bottom: 10px;
+}
+hr.title-spacing {
+    margin-top: 10px;
+    width: 100%;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
