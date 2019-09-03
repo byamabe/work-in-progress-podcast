@@ -7,6 +7,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
 
+import { PlyrModule } from 'ngx-plyr';
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PodcastComponent } from './podcast/podcast.component';
@@ -29,7 +31,8 @@ import { EpisodesComponent } from './episode/episodes/episodes.component';
     BrowserModule,
     MatToolbarModule,
     AppRoutingModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    PlyrModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

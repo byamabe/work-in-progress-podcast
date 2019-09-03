@@ -1,4 +1,6 @@
 <div class='episode'>
   <div class='episode-title'>{{ episode.title }}</div>
   <div class='description'>{{ episode.description }}</div>
+  <div class="episode-player" plyr plyrType="audio" [plyrTitle]="episode.title"
+    [plyrSources]="[{src:episode.url, type: 'audio/mp3'}]"> </div>
 </div>
