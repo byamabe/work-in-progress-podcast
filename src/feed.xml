@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Work in Progress Podcast</title>
-    <link>http://www.workinprogresspodcast.com</link>
+    <link>https://www.workinprogresspodcast.com</link>
     <language>en-us</language>
     <copyright>℗ &amp; © 2019 Yamabe &amp; Family</copyright>
     <itunes:subtitle>A conversation about retaining your Christianity while growing up in modern day America.</itunes:subtitle>
@@ -22,7 +22,7 @@
       <itunes:email>wip@yamabe.net</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.workinprogresspodcast.com/podcast-icon.png" />
+    <itunes:image href="https://www.workinprogresspodcast.com/podcast-icon.png" />
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
