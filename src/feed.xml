@@ -40,7 +40,7 @@
       <description>We both learn how to better communicate the Christian understanding of LGBT issues. Dad learns how to better communicate without giving offense and Daughter learns how easy misperception is.</description>
       <link>https://media.workinprogresspodcast.org/LGBT.mp3</link>
       <enclosure url="https://media.workinprogresspodcast.org/LGBT.mp3" type="audio/mpeg" length="1024"></enclosure>
-      <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 7 September 2019 00:00:01 +0000</pubDate>
       <itunes:duration>00:40:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://media.workinprogresspodcast.org/LGBT.mp3</guid>
@@ -55,7 +55,7 @@
       <description>We discuss how difficult it is to discuss Christianity outside of Church. Daughter talks about how she would get more support coming out as LGBT than coming out as Chritian at her school. Dad tries to learn how to better communicate with young people.</description>
       <link>https://media.workinprogresspodcast.org/Being_Christian.mp3</link>
       <enclosure url="https://media.workinprogresspodcast.org/Being_Christian.mp3" type="audio/mpeg" length="1024"></enclosure>
-      <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 7 September 2019 00:00:01 +0000</pubDate>
       <itunes:duration>00:39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://media.workinprogresspodcast.org/Being_Christian.mp3</guid>
@@ -69,10 +69,24 @@
       <description>We discuss The LCMS National Youth Gathering. Daughter dicsusses what she learned. Dad tries to understand what Daughter learned versus what was trying to be communicated.</description>
       <link>https://media.workinprogresspodcast.org/NYG.mp3</link>
       <enclosure url="https://media.workinprogresspodcast.org/NYG.mp3" type="audio/mpeg" length="1024"></enclosure>
-      <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+      <pubDate>Sat, 7 September 2019 00:00:01 +0000</pubDate>
       <itunes:duration>00:51:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://media.workinprogresspodcast.org/NYG.mp3</guid>
+    </item>
+    <item>
+      <title>Eternal and Long-Term</title>
+      <itunes:subtitle>How the lack of concern about the eternal affects talking about God.</itunes:subtitle>
+      <itunes:author>Work in Progress Podcast</itunes:author>
+      <itunes:summary><![CDATA[We discuss the idea that youth in general don\'t think about the long-term. Daughter discusses the impact of social media on what is perceived to be real and how that affects long-term thinking. Dad realizes how much the background of his childhood affected his long-term thinking.]]></itunes:summary>
+      <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
+      <description>We discuss the idea that youth in general don\'t think about the long-term. Daughter discusses the impact of social media on what is perceived to be real and how that affects long-term thinking. Dad realizes how much the background of his childhood affected his long-term thinking.</description>
+      <link>https://media.workinprogresspodcast.org/Eternal_and_Long-Term.mp3</link>
+      <enclosure url="https://media.workinprogresspodcast.org/NYG.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Sat, 14 September 2019 00:00:01 +0000</pubDate>
+      <itunes:duration>01:22:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>https://media.workinprogresspodcast.org/Eternal_and_Long-Term.mp3</guid>
     </item>
   </channel>
 </rss>
