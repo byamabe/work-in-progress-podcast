@@ -88,5 +88,19 @@
       <itunes:explicit>no</itunes:explicit>
       <guid>https://media.workinprogresspodcast.org/Eternal_and_Long-Term.mp3</guid>
     </item>
+    <item>
+      <title>Awesome God</title>
+      <itunes:subtitle>Analyzing the theology a song conveys.</itunes:subtitle>
+      <itunes:author>Work in Progress Podcast</itunes:author>
+      <itunes:summary><![CDATA[Dauther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.]]></itunes:summary>
+      <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
+      <description>Dauther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.</description>
+      <link>https://media.workinprogresspodcast.org/Awesome_God.mp3</link>
+      <enclosure url="https://media.workinprogresspodcast.org/Awesome_God.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 20 September 2019 00:00:01 +0000</pubDate>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>https://media.workinprogresspodcast.org/Awesome_God.mp3</guid>
+    </item>
   </channel>
 </rss>
