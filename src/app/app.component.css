@@ -6,3 +6,12 @@
 #content-header {
   height: 70px;
 }
+
+#title a {
+  color: white;
+  text-decoration: none;
+}
+#title a:hover {
+  color: white;
+  text-decoration: underline;
+}

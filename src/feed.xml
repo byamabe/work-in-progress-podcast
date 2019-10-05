@@ -102,5 +102,19 @@
       <itunes:explicit>no</itunes:explicit>
       <guid>https://media.workinprogresspodcast.org/Awesome_God.mp3</guid>
     </item>
+    <item>
+      <title>Youth Bible Study</title>
+      <itunes:subtitle>Past and future of Youth Bible Study.</itunes:subtitle>
+      <itunes:author>Work in Progress Podcast</itunes:author>
+      <itunes:summary><![CDATA[We discuss what a Sunday morning youth Bible study looks like. Daughter #1 explains how studies have gone in the past and the pitfalls Dad will encounter. Dad learns what areas of the Bible interest the youth.]]></itunes:summary>
+      <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
+      <description>We discuss what a Sunday morning youth Bible study looks like. Daughter #1 explains how studies have gone in the past and the pitfalls Dad will encounter. Dad learns what areas of the Bible interest the youth.</description>
+      <link>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Youth_BIble_Study.mp3</link>
+      <enclosure url="https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Youth_BIble_Study.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 4 October 2019 00:00:01 +0000</pubDate>
+      <itunes:duration>00:50:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Youth_BIble_Study.mp3</guid>
+    </item>
   </channel>
 </rss>

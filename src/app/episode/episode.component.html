@@ -1,1 +1,16 @@
-<p>episode works!</p>
+<div></div>
+<div style="text-align:center">
+  <a href="/"><img width="300" alt="Angular Logo" src="/assets/podcast-icon.jpg"></a>
+</div>
+<div fxLayout="row">
+  <div fxFlex="25"></div>
+  <div fxFlexAlign="center" fxLayout="column">
+    <div class='episode'>
+      <div class='episode-title'>{{ episode.title }}</div>
+      <div class='description'>{{ episode.description }}</div>
+      <div class="episode-player" plyr plyrType="audio" [plyrTitle]="episode.title"
+        [plyrSources]="[{src:episode.url, type: 'audio/mp3'}]"> </div>
+    </div>
+  </div>
+  <div fxFlex="25"></div>
+</div>
