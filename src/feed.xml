@@ -92,9 +92,9 @@
       <title>Awesome God</title>
       <itunes:subtitle>Analyzing the theology a song conveys.</itunes:subtitle>
       <itunes:author>Work in Progress Podcast</itunes:author>
-      <itunes:summary><![CDATA[Dauther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.]]></itunes:summary>
+      <itunes:summary><![CDATA[Daugther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.]]></itunes:summary>
       <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
-      <description>Dauther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.</description>
+      <description>Daugther #2 and Dad discuss the theology of the song "Awesome God". Daughter #2 learns how to analyze a song. Dad is a little surprised by how much daughter #2 has absorbed.</description>
       <link>https://media.workinprogresspodcast.org/Awesome_God.mp3</link>
       <enclosure url="https://media.workinprogresspodcast.org/Awesome_God.mp3" type="audio/mpeg" length="1024"></enclosure>
       <pubDate>Fri, 20 September 2019 00:00:01 +0000</pubDate>
@@ -115,6 +115,34 @@
       <itunes:duration>00:50:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Youth_BIble_Study.mp3</guid>
+    </item>
+    <item>
+      <title>Questions for Dad</title>
+      <itunes:subtitle>What if Dad could art?</itunes:subtitle>
+      <itunes:author>Work in Progress Podcast</itunes:author>
+      <itunes:summary><![CDATA[We discuss what it would be like if Dad had any artistic ability. Daughter #1 asks how Dad would think if he were an artist. Dad answers an artistic question in a logical fashion as only he would.]]></itunes:summary>
+      <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
+      <description>We discuss what it would be like if Dad had any artistic ability. Daughter #1 asks how Dad would think if he were an artist. Dad answers an artistic question in a logical fashion as only he would.</description>
+      <link>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Questions_for_Dad.mp3</link>
+      <enclosure url="https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Questions_for_Dad.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 4 October 2019 00:00:01 +0000</pubDate>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Questions_for_Dad.mp3</guid>
+    </item>
+    <item>
+      <title>Race, Principles, and Empathy</title>
+      <itunes:subtitle>Communication is hard</itunes:subtitle>
+      <itunes:author>Work in Progress Podcast</itunes:author>
+      <itunes:summary><![CDATA[We discuss being Asian and how to communicate principles with empathy. Daughter #1 wins the conversation. Dad learns that GenZ is not unique in its need for individual attention.]]></itunes:summary>
+      <itunes:image href="https://www.workinprogresspodcast.org/assets/podcast-icon.jpg"/>
+      <description>We discuss being Asian and how to communicate principles with empathy. Daughter #1 wins the conversation. Dad learns that GenZ is not unique in its need for individual attention.</description>
+      <link>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Race_Principles_and_Empathy.mp3</link>
+      <enclosure url="https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Race_Principles_and_Empathy.mp3" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 4 October 2019 00:00:01 +0000</pubDate>
+      <itunes:duration>01:02:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>https://s3-us-west-1.amazonaws.com/media.workinprogresspodcast.org/Race_Principles_and_Empathy.mp3</guid>
     </item>
   </channel>
 </rss>
