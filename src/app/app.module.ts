@@ -16,6 +16,10 @@ import { EpisodeComponent } from './episode/episode.component';
 import { EpisodeListComponent } from './episode/episode-list/episode-list.component';
 import { EpisodeDetailComponent } from './episode/episode-detail/episode-detail.component';
 import { EpisodesComponent } from './episode/episodes/episodes.component';
+import { ParentingComponent } from './parenting/parenting.component';
+import { ParentingListComponent } from './parenting/parenting-list/parenting-list.component';
+import { ParentingEpisodeComponent } from './parenting/parenting-episode/parenting-episode.component';
+import { ParentingDetailComponent } from './parenting/parenting-detail/parenting-detail.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +28,11 @@ import { EpisodesComponent } from './episode/episodes/episodes.component';
     EpisodeComponent,
     EpisodeListComponent,
     EpisodeDetailComponent,
-    EpisodesComponent
+    EpisodesComponent,
+    ParentingComponent,
+    ParentingListComponent,
+    ParentingEpisodeComponent,
+    ParentingDetailComponent
   ],
   imports: [
     BrowserAnimationsModule,

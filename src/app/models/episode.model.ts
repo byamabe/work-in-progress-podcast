@@ -5,6 +5,7 @@ export class Episode implements Deserializable {
   url: string;
   description: string;
   title: string;
+  notes: string;
 
   deserialize(input: any) {
     Object.assign(this, input);

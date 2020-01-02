@@ -1,0 +1,13 @@
+:host ::ng-deep .speaker-1 span {
+  color: #bbbbbb;
+  font-weight: bold;
+}
+
+:host ::ng-deep .speaker-2 {
+  background-color: #f0f0f0;
+}
+
+:host ::ng-deep .speaker-2 span {
+  color: #999999;
+  font-weight: bold;
+}
