@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { PlyrComponent } from 'ngx-plyr';
-import Plyr from 'plyr';
+// import { Plyr } from 'plyr';
+//import _ = require('plyr');
 import { data } from '../data/podcasts';
 import { Episode } from '../models/episode.model';
 
